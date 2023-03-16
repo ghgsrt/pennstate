@@ -1,7 +1,3 @@
-<script>
-    import '../app.css';
-</script>
-
 <div>
 	<h1>TOTALLY LEGIT PENN STATE AFFILIATED WEB PAGE 🤘🏻</h1>
 </div>
